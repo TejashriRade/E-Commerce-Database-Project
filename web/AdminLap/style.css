@@ -1,0 +1,98 @@
+body 
+{
+	background-color : #eed8ae;
+	
+}
+li.menu
+{
+    display:inline;
+    padding:10px;
+    background-color: brown;
+    padding-left: 20px;
+}
+
+li.leftmenu
+{
+    display:inherit;
+    padding:10px;
+    }
+ .rptstyle
+    {
+font-size: 23px;
+color:blue;
+    
+    }
+.inputtxt
+{
+    height: 30px;
+    width:230px;
+    background-color: bisque;
+    color: brown;
+border:none;
+font-size: 18px;
+border-radius: 10px;
+}
+.inputtxtarea
+{
+    width:230px;
+    background-color: bisque;
+    color: brown;
+border:none;
+font-size: 18px;
+border-radius: 10px;
+}
+
+.tbstyle
+{
+    border:#933709 outset medium;
+    padding:10px;
+    width:50%;
+    padding-left: 60px;
+}
+.lbstyle
+{
+    color:brown;
+    font-size: 18px;
+    text-transform: capitalize;
+    
+}
+.bttxt
+{
+    background-color: brown;
+    color:bisque;
+    height: 30px;
+    width:130px;
+font-size: 18px;
+border-radius: 10px;
+    
+    
+}
+a:hover
+{
+    background-color: brown;
+    color:peachpuff;
+    font-size: 19px;
+        text-decoration: none;
+
+}
+#eddelmenu
+{
+    border: none;
+    line-height: 30px;
+    width: 120%;
+    text-align: center;
+    
+}
+.edt
+{
+background-color: burlywood;
+    font-size: 18px;
+    
+}
+.edth
+{
+background-color: brown;
+font-size: 20px;
+color:white;
+    
+}
